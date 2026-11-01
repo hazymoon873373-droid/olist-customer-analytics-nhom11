@@ -1,4 +1,4 @@
-# Olist Customer Analytics — Nhóm 5
+# Olist Customer Analytics — Nhóm 11
 
 ABDA433708: phân tích khách hàng, phân khúc RFM và nguy cơ không mua lại trong 180 ngày bằng MongoDB, Power BI và Machine Learning.
 
@@ -17,8 +17,8 @@ Website hiện hành nằm trong Ngan_Web, dùng trực tiếp dữ liệu sạc
 ## Chạy từ bản clone mới
 
 ```powershell
-git clone https://github.com/hazymoon873373-droid/olist-customer-analytics-nhom5.git
-cd olist-customer-analytics-nhom5
+git clone https://github.com/hazymoon873373-droid/olist-customer-analytics-nhom11.git
+cd olist-customer-analytics-nhom11
 ```
 
 Mỗi phần có README và môi trường thư viện riêng. Không dùng requirements của một phần để suy ra đã cài đủ cho toàn bộ dự án.
