@@ -31,7 +31,7 @@ ROOT = Path(__file__).resolve().parent
 PROJECT_ROOT = ROOT.parent
 MAX_ZIP = 512 * 1024 * 1024
 MAX_API = 2 * 1024 * 1024
-USER_AGENT = "ABDA433708-Nhom5-DataCollection/1.0 (academic project)"
+USER_AGENT = "ABDA433708-Nhom11-DataCollection/1.0 (academic project)"
 LOG = logging.getLogger("huy_collection")
 
 
@@ -287,7 +287,7 @@ def create_reports(run, manifest):
     total_olist = sum(row["record_count"] for row in files)
     total_api = api.get("record_count", 0)
     lines = [
-        "# KẾT QUẢ THU THẬP DỮ LIỆU - NGUYỄN GIA HUY / NHÓM 5",
+        "# KẾT QUẢ THU THẬP DỮ LIỆU - NGUYỄN GIA HUY / NHÓM 11",
         "", f"- Trạng thái: **{manifest['status'].upper()}**",
         f"- Run ID: `{manifest['run_id']}`",
         f"- Thời gian bắt đầu (UTC): {manifest['started_at_utc']}",
@@ -355,7 +355,7 @@ def collect(output_root, timeout=45, local_zip=None):
         LOG.addHandler(handler)
     manifest = {
         "run_id": run_id, "started_at_utc": utc_now(), "status": "running",
-        "collector": "Nguyen Gia Huy - Nhom 5 - ABDA433708", "errors": [],
+        "collector": "Nguyen Gia Huy - Nhom 11 - ABDA433708", "errors": [],
         "olist": {"status": "pending", "source_page": KAGGLE_PAGE, "files": []},
         "ibge": {"status": "pending", "documentation": IBGE_DOCS, "endpoint": IBGE_URL},
         "warnings": [],

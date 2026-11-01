@@ -1,4 +1,4 @@
-# Website Olist — Nhóm 5
+# Website Olist — Nhóm 11
 
 Ứng dụng Streamlit dùng dữ liệu sạch của Thiên, bộ BI của Tâm và kết quả ML của Thọ. Phần dữ liệu lịch sử chỉ đọc; tài khoản, ghi chú, ưu tiên và chiến dịch được lưu riêng trong SQLite.
 

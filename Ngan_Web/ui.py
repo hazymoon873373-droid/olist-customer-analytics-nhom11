@@ -205,7 +205,7 @@ def brand():
         f'<div class="brand-symbol">{mark}</div>'
         '<div>'
         '<strong>olist<span> / insights</span></strong>'
-        '<small>Không gian dữ liệu · Nhóm 5</small>'
+        '<small>Không gian dữ liệu · Nhóm 11</small>'
         '</div>'
         '</div>',
         unsafe_allow_html=True,

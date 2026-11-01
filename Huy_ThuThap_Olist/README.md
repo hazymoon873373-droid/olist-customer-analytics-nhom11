@@ -1,4 +1,4 @@
-# BÀN GIAO PHẦN THU THẬP DỮ LIỆU - NGUYỄN GIA HUY / NHÓM 5
+# BÀN GIAO PHẦN THU THẬP DỮ LIỆU - NGUYỄN GIA HUY / NHÓM 11
 
 Môn ABDA433708. Đề tài: phân tích khách hàng và dự báo nguy cơ không mua lại trên Olist bằng MongoDB và Machine Learning.
 

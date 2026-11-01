@@ -1,6 +1,6 @@
 # Machine Learning cho phân tích khách hàng Olist
 
-Môn ABDA433708 — nhóm 5. Phần này đặt trong Tho_Machine_Learning của repository chung. Giữ nguyên cấu trúc 4 thư mục con:
+Môn ABDA433708 — nhóm 11. Phần này đặt trong Tho_Machine_Learning của repository chung. Giữ nguyên cấu trúc 4 thư mục con:
 
 | Thư mục | Vai trò |
 |---|---|

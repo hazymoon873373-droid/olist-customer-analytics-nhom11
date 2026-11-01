@@ -1,6 +1,6 @@
 # Làm sạch và quản lý dữ liệu Olist bằng MongoDB
 
-Môn ABDA433708 — nhóm 5, phần ETL/MongoDB.
+Môn ABDA433708 — nhóm 11, phần ETL/MongoDB.
 
 ## Nội dung
 

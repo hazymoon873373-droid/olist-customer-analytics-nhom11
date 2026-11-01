@@ -214,7 +214,7 @@ def require_login():
                 '</div>'
 
                 '<div class="login-footnote">'
-                'Đồ án ABDA433708 · HCMUTE · Nhóm 5'
+                'Đồ án ABDA433708 · HCMUTE · Nhóm 11'
                 '</div>'
 
                 '</div>'

@@ -1,6 +1,6 @@
 # Phân tích khách hàng Olist — EDA và Power BI
 
-Môn ABDA433708, nhóm 5. Phần EDA/BI sử dụng dữ liệu sạch Olist, phân tích RFM/cohort và tích hợp kết quả Machine Learning.
+Môn ABDA433708, nhóm 11. Phần EDA/BI sử dụng dữ liệu sạch Olist, phân tích RFM/cohort và tích hợp kết quả Machine Learning.
 
 ## Cấu trúc
 
